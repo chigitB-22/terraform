@@ -4,7 +4,7 @@
     key    = "chidi/s3file-3.tfstate"
     region = "us-east-2"
     profile = "jespo"
-dynamodb_table= "firstprojecttable"
+ dynamodb_table= "firstprojecttable"
    }
  }
 
