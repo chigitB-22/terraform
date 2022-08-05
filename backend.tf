@@ -3,7 +3,7 @@
     bucket = "code-sharing-bucket"
     key    = "chidi/s3file-3.tfstate"
     region = "us-east-2"
-    profile = "chidi"
+    profile = "jespo"
 dynamodb_table= "firstprojecttable"
    }
  }
